@@ -1,7 +1,7 @@
 export const profile = {
   name: "Ritwik Katta",
   initials: "RK",
-  role: "Software Engineer",
+  role: "CSE (AI) Student",
   tagline: "Backend & AI systems",
   location: "Bengaluru, India",
   email: "ritwikkatta7@gmail.com",
@@ -61,7 +61,7 @@ export const about = {
       text: "I'm a Computer Science engineering student at {{Manipal Institute of Technology, Bengaluru}}, specializing in AI. Most of what I build lives on the backend — event loops, data pipelines, search indexes and the boring reliability work that keeps them running when something goes wrong.",
     },
     {
-      text: "I work as a {{Software Engineer on Upwork}}, where I hold Top Rated status for Python, API and automation work. The largest engagement was an {{NSE intraday trading platform}}: eight modular components spanning market data, strategy, execution, persistence and risk, processing live data for 50 NIFTY instruments, with a 5-year backtesting engine that models brokerage, taxes and slippage.",
+      text: "I previously worked as a {{Software Engineer on Upwork}}, where I hold Top Rated status for Python, API and automation work. The largest engagement was an {{NSE intraday trading platform}}: eight modular components spanning market data, strategy, execution, persistence and risk, processing live data for 50 NIFTY instruments, with a 5-year backtesting engine that models brokerage, taxes and slippage.",
     },
     {
       text: "On my own time I build AI tooling I can actually measure — a {{PR review assistant}} with a transparent risk-scoring formula, and a {{document platform}} where I implemented HNSW search from scratch and benchmarked it against brute force and ChromaDB. I've solved 150+ DSA problems on LeetCode and hold a 5-star Gold Badge on HackerRank.",
@@ -69,8 +69,8 @@ export const about = {
   ],
   facts: [
     { label: "based in", value: "Bengaluru, India" },
-    { label: "Software Engineer @ Upwork", value: "May 2025 – May 2026" },
-    { label: "B.Tech CSE (AI), MIT Bengaluru", value: "2023 – 2027 · SGPA 8.4" },
+    { label: "B.Tech CSE (AI), MIT Bengaluru", value: "2023 – 2027 · 4th year · SGPA 8.4" },
+    { label: "Past: Software Engineer @ Upwork", value: "May 2025 – May 2026" },
     { label: "Top Rated on Upwork", value: "Python · APIs · automation" },
     { label: "LeetCode & HackerRank", value: "150+ solved · 5★ Gold" },
   ],
