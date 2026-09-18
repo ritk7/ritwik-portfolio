@@ -23,11 +23,11 @@ const hand = Caveat({
 });
 
 export const metadata = {
-  title: "Ritwik Katta | Software Engineer",
+  title: "Ritwik Katta | CSE (AI) Student",
   description:
-    "Ritwik Katta — software engineer in Bengaluru building backend systems and AI tooling: an event-driven NSE trading platform, RAG document search, and ML services.",
+    "Ritwik Katta — CSE (AI) student in Bengaluru building backend systems and AI tooling: an event-driven NSE trading platform, RAG document search, and ML services.",
   openGraph: {
-    title: "Ritwik Katta | Software Engineer",
+    title: "Ritwik Katta | CSE (AI) Student",
     description:
       "Backend and AI systems — NSE intraday trading platform, RAG document search, predictive maintenance ML.",
     type: "website",

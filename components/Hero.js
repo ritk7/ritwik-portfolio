@@ -176,7 +176,7 @@ export default function Hero() {
           </div>
 
           <span className="panel-badge">Python · Kite Connect</span>
-          <span className="panel-sticker">Software Engineer</span>
+          <span className="panel-sticker">CSE (AI) Student</span>
         </div>
       </div>
     </section>
