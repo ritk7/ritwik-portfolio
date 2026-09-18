@@ -3,7 +3,7 @@
 Personal portfolio site. Next.js App Router, no CSS framework — a small neo-brutalist
 design system built on CSS custom properties, with light and dark themes.
 
-**Live:** deployed on Vercel
+**Live:** https://ritwik-portfolio-liart.vercel.app
 
 ## Stack
 
