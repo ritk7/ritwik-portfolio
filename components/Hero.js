@@ -119,9 +119,8 @@ export default function Hero() {
               <a
                 className="resume-btn"
                 href={profile.resume}
-                target="_blank"
-                rel="noreferrer"
-                aria-label="Open resume PDF"
+                download="Ritwik-Katta-Resume.pdf"
+                aria-label="Download resume PDF"
               >
                 <FileIcon />
               </a>
